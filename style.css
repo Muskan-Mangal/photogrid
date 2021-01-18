@@ -1,0 +1,29 @@
+/* div{
+    float: left;
+    width: 380px;
+    height: 300px;
+    margin: 16px;
+    
+}
+img{
+    height: inherit;
+    width: inherit;
+}
+*/
+h1{
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 1.66%;;
+    border-bottom: 2px solid #edf5f1;
+    padding-bottom: 20px;
+    width: 30%;
+
+} 
+div{
+    float: left;
+    width: 30%;
+    margin:1.66%;
+}
+img{
+    height:100%;
+    width:100%
+}
